@@ -1,5 +1,9 @@
 # Hotel-Management-System
-# Language Used:- Java Core
-# Concept used:- Swing
-# Database Used:- MYSQL
-# IDE Used:- Netbeans
+<br>
+ Language Used:- Java Core
+ <br>
+ Concept used:- Swing
+ <br>
+ Database Used:- MYSQL
+ <br>
+IDE Used:- Netbeans
