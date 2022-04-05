@@ -1,6 +1,6 @@
 # Hotel-Management-System
 <br>
- Language Used:- Java Core
+ Language Used:- JAVA CORE
  <br>
  Concept used:- Swing
  <br>
